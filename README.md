@@ -1,6 +1,6 @@
 # NYC-Airquaity-Dashboard-powerbi
 This project involved an end-to-end data pipeline, analyzing New York City's air quality data (2017–2022) to uncover trends and actionable insights.
-The pytho main file is where the data cleansing is performed and pandas module has been used and the api.opy file has api code which ahs been developed in flask framework using sqlalchemy module
+The python main file is where the data cleansing is performed by using pandas module and the api.py file has api code which has been developed in flask framework using sqlalchemy module
 ## ETL Process
 #### Sourced data from a government website on air quality.
 #### Cleaned and transformed data using Python to handle inconsistencies and prepare it for analysis.
