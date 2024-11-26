@@ -7,10 +7,10 @@ This project involved an end-to-end data pipeline, analyzing New York City's air
 #### Built a custom API in Python to seamlessly connect the database to Power BI for reporting.
 ## Data Modeling
 ![datamode](https://github.com/rishinawani/NYC-Airquaity-Dashboard-powerbi/blob/main/datamodel.PNG)
-####Transformed a single, large dataset into a star schema for better analysis:
-####Fact Table: Air quality metrics.
-####Dimension Tables: Geographic data and health-related metrics.
-####Normalized data, created indexes for performance, and defined one-to-many relationships between tables to ensure data integrity and scalability.
+#### Transformed a single, large dataset into a star schema for better analysis:
+#### Fact Table: Air quality metrics.
+#### Dimension Tables: Geographic data and health-related metrics.
+#### Normalized data, created indexes for performance, and defined one-to-many relationships between tables to ensure data integrity and scalability.
 ## Visualisation
  #### Regional Pollution Trends: Visualized pollution levels across five regions, showing a notable drop in 2021–2022.
  #### Seasonal Analysis: Highlighted higher pollution levels during summer compared to winter.
